@@ -9,7 +9,7 @@
 ## Purpose
 1. Collect custom metric (querying data) from an RDS server and push those metrics into CloudWatch Metrics regularly.
 1. Doing this without having to have a server via AWS Lambda and Serverless.
-1. Able to use the custom metrics for creating dashboards to view current and hisorical data easily (see [usage examples](#usage-examples))
+1. Able to use the custom metrics for creating dashboards to view current and historical data easily (see [usage examples](#usage-examples))
 1. Able to use the custom metrics to trigger CloudWatch Alarms and AWS AutoScaling actions.
 
 
